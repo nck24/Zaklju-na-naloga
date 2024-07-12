@@ -1,0 +1,17 @@
+\babel@toc {slovene}{}\relax 
+\contentsline {section}{\numberline {1}Uvod}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Naloga}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Prva podnaloga}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Druga podnaloga}{2}{}%
+\contentsline {subsection}{\numberline {1.4}Seznam uporabljenih oznak}{3}{}%
+\contentsline {section}{\numberline {2}Teoretični del}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Teoretična zasnova}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Pospeški lune}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Hitrost Lune}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Numerično integriranje}{5}{}%
+\contentsline {section}{\numberline {3}Rezultati numeričnega integriranja}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Kako izgledajo Lunine orbite okoli Zemlje}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Prva podnaloga}{9}{}%
+\contentsline {subsection}{\numberline {3.3}Druga podnaloga}{11}{}%
+\contentsline {subsection}{\numberline {3.4}Zanimivost}{13}{}%
+\contentsline {section}{\numberline {4}Zaključek}{14}{}%
